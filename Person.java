@@ -20,7 +20,7 @@ class Person
      }
     public static void main(String[] args)
     {
-           Person p = new Person(1,"sidhartha","male","bengalore");
+           Person p = new Person(2,"ram","male","bengalore");
            p.display();
     } 
 }   
